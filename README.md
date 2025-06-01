@@ -41,7 +41,8 @@ Functionality was tested using form submissions:
 
 ## View Site 
 
-https://rawanc.github.io/University_Lost_and_Found_Website/
+[Go to website]([https://example.com](https://rawanc.github.io/University_Lost_and_Found_Website/))
+
 
 ---
 
