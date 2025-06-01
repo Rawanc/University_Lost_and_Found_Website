@@ -39,9 +39,9 @@ Functionality was tested using form submissions:
 
 ---
 
-## Conclusion
+## View Site 
 
-Building this project enhanced our understanding of web development using HTML, CSS, and JavaScript. It taught us the importance of usability, responsiveness, and testing in developing a user-centered application.
+https://rawanc.github.io/University_Lost_and_Found_Website/
 
 ---
 
