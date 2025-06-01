@@ -6,7 +6,7 @@ A web-based platform for students, faculty, and staff to report and recover lost
 
 ## Project Overview
 
-**University Lost and Found** is a campus-oriented website designed to match lost and found items efficiently. Users can report items, upload descriptions and images, and browse listings. The platform aims to return lost items to their rightful owners through a simple, accessible interface.
+a campus-oriented website designed to match lost and found items efficiently. Users can report items, upload descriptions and images, and browse listings. The platform aims to return lost items to their rightful owners through a simple, accessible interface.
 
 ---
 
